@@ -35,6 +35,3 @@ For the final project, i made the attempt at creating a memory game where there 
 ![WIN_20221206_11_02_36_Pro](https://user-images.githubusercontent.com/115032842/205990605-f4804c6b-c439-4f12-9434-2aef78a46f3b.jpg)
 ![WIN_20221206_11_02_51_Pro](https://user-images.githubusercontent.com/115032842/205990616-38fe88cf-f678-4ab1-818b-4414c75d5c24.jpg)
 
-# Code Portion
-
-1. 
